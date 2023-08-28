@@ -1,0 +1,23 @@
+{
+  "name": "ultra-instinct",
+  "publisher": "BhavyaRajwanshi",
+
+  "displayName": "Ultra Instinct",
+  "description": "GOKU",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ultra Instinct",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ultra Instinct-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,4 +1,6 @@
 Description
+
+
 The Goku Ultra Instinct VS Code theme is a visually stunning theme inspired by the Dragon Ball series, specifically Goku's powerful Ultra Instinct transformation. This theme brings the dynamic and intense energy of Goku's battles to your coding environment, with a carefully selected color palette that reflects the essence of this iconic form.
 
 Installation
